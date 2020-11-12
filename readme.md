@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/forro.balazs.tiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="forro.balazs.tiger" height="30" width="40" /></a>
-<a href="https://instagram.com/tiger_93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="tiger_93" height="30" width="40" /></a>
+<a href="https://discord.com/invite/dkHJbPR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="tiger_93" height="30" width="40" /></a>
 <a href="https://instagram.com/tiger_93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tiger_93" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tigerproduction" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tigerproduction" height="30" width="40" /></a>
 </p>
