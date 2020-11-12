@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tiger</h1>
 <h3 align="center">A passionate freelance frontend developer from Hungary</h3>
-[![Spotify](https://tiger.vercel.app/api/spotify)](https://open.spotify.com/user/tiger)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiger93&label=Profile%20views&color=0e75b6&style=plastic" alt="tiger93" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiger93" alt="tiger93" /></a> </p>
+
+### 🎧 Spotify Playing
+[![Spotify](https://tiger.vercel.app/api/spotify)](https://open.spotify.com/user/tiger_93)
 
 - 🔭 I’m currently working on **private project.**
 
