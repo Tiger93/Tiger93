@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tiger</h1>
+<h3 align="center">A passionate freelance developer from Hungary</h3>
 
-<!--
-**Tiger93/Tiger93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiger93&label=Profile%20views&color=0e75b6&style=plastic" alt="tiger93" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiger93&theme=onedark&margin-w=15" alt="tiger93" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎧 Spotify Playing
+[![Spotify](https://tiger.vercel.app/api/spotify)](https://open.spotify.com/user/tiger_93)
+
+- 🔭 I’m currently working on **private project.**
+
+- 🌱 I’m currently learning **Laravel, Node.js, Discord.js**
+
+- 🤝 I’m looking for help in **learning**
+
+- 📫 How to reach me **Discord: 'Tiger'#4172**
+
+- ⚡ Fun fact
+  -  **Banging your head against a wall for one hour burns 150 calories.**
+     -  Alternatively, you can walk your dog for 45 minutes, which also burns 150 calories – and is much less painful.
+
+[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiger93&theme=onedark)](https://wakatime.com/@Tiger93)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiger93&show_icons=true&locale=en&count_private=true&theme=onedark" alt="tiger93" /></p>
